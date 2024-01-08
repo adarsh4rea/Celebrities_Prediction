@@ -1,1 +1,1 @@
-# Celebrities_Prediction
+This project focuses on building a celebrity image classification model using a combination of computer vision techniques and a simple neural network. The primary goal is to predict the identity of a celebrity from an input image.
